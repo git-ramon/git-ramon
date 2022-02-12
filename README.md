@@ -21,8 +21,8 @@ Atualmente envolvido em projetos de baixa complexidade utilizando as seguintes t
 <br>
 <div align="center">
   <a href="https://github.com/git-ramon">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git-ramon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></n>
- <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-ramon&layout=compact&langs_count=7&theme=radical"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=git-ramon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></n>
+ <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-ramon&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
