@@ -18,4 +18,26 @@ Atualmente envolvido em projetos de baixa complexidade utilizando as seguintes t
 - [Cursos: ](https://)PHP e Mysql em Senac, PHP e Laravel em HDC, Java Web em Stefanini, Java Script em DIO, Java e Bootstrap em Whiletrue. Etc ...
 - [Curriculo Online: ](https://git-ramon.github.io/curriculoweb/) ✍🏼 - Acesse todas as mninhas informaçoes profissionais.
 
+<br>
+<div align="center">
+  <a href="https://github.com/git-ramon">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git-ramon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></n></n>
+ <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-ramon&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://uploaddeimagens.com.br/images/003/722/143/original/Caricaturaramon.PNG?1644641761">
+</div>
+
+##
+
+  ![Snake animation](https://github.com/git-ramon/git-ramon/blob/output/github-contribution-grid-snake.svg)
 
