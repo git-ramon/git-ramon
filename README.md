@@ -38,6 +38,8 @@ Atualmente envolvido em projetos de baixa complexidade utilizando as seguintes t
 </div>
 
 ##
-
-  ![Snake animation](https://github.com/git-ramon/blob/output/github-contribution-grid-snake.svg)
+<div>
+  ![Snake animation](https://github.com/git-ramon/git-ramon/blob/output/github-contribution-grid-snake.gif)
+</div>
+  
 
