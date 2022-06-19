@@ -12,7 +12,7 @@
 
 ### Sobre min
 
-Dev. de Software em formaçao.
+Dev. Back-end Jr.
 Atualmente envolvido em projetos de baixa complexidade utilizando as seguintes tecnologias: PHP, Laravel, Mysql, Js, Html e Css. 
 
 - [Cursos: ](https://)PHP e Mysql em Senac, PHP e Laravel em HDC, Java Web em Stefanini, Java Script em DIO, Java e Bootstrap em Whiletrue. Etc ...
