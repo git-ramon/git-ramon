@@ -12,7 +12,7 @@
 
 ### Sobre min
 
-Dev. Back-end Jr.
+Dev. Back-end PHP.
 
 Atualmente envolvido em projetos de baixa complexidade utilizando as seguintes tecnologias: PHP, Laravel, Mysql, Js, Html e Css. 
 
