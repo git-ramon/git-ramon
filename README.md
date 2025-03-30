@@ -51,7 +51,7 @@ Atualmente envolvido em projetos de baixa complexidade utilizando as seguintes t
 
 ##
 
-  https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+  ![Snake animation]https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
   
   
   <h3> Visitantes </h3>  
