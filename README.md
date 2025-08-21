@@ -14,7 +14,7 @@
 
 Dev. Back-end PHP.
 
-Atualmente envolvido em projetos de baixa complexidade utilizando as seguintes tecnologias: PHP, Laravel, Mysql, Js, Html e Css. 
+Atualmente envolvido em projetos de média complexidade utilizando as seguintes tecnologias: PHP, Laravel, Mysql, Docker, Postman, Github, Js, Html e Css. 
 
 - [Cursos: ](https://)PHP e Mysql em Senac, PHP e Laravel em HDC, Java Web em Stefanini, Java Script em DIO, Java e Bootstrap em Whiletrue. Etc ...
 - [Curriculo Online: ](https://git-ramon.github.io/curriculoweb/) ✍🏼 - Acesse todas as minhas informações profissionais.
