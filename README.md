@@ -22,8 +22,8 @@ Atualmente envolvido em projetos de média complexidade utilizando as seguintes 
 <br>
 <div align="center">
   <a href="https://github.com/git-ramon">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=git-ramon&show_icons=true&theme=radical"/>
-    <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-ramon&layout=compact&langs_count=7&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=git-ramon&show_icons=true&theme=radical"/>
+    <img height="160em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=git-ramon&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
