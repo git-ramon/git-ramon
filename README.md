@@ -48,7 +48,7 @@ Atualmente envolvido em projetos de média complexidade utilizando as seguintes 
   <img align="center" alt="trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   
   
-  <img align="right" alt="Ramon-pic" height="150" src="./assets/caricaturaramon.jpg">
+  <img align="center" alt="Ramon-pic" height="150" src="./assets/caricaturaramon.jpg">
 
 </p>
 
