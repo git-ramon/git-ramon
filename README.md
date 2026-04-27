@@ -30,7 +30,7 @@ Atualmente envolvido em projetos de média complexidade utilizando as seguintes 
 
 ##
 
-<p align="left"><br>
+<div style="display:flex">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -48,9 +48,9 @@ Atualmente envolvido em projetos de média complexidade utilizando as seguintes 
   <img align="center" alt="trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   
   
-  <img align="center" alt="Ramon-pic" height="150" src="./assets/caricaturaramon.jpg">
+  <img align="right" alt="Ramon-pic" height="150" src="./assets/caricaturaramon.jpg">
 
-</p>
+</div>
 
 ##
 
