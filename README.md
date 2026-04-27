@@ -30,7 +30,7 @@ Atualmente envolvido em projetos de média complexidade utilizando as seguintes 
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block;"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
