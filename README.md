@@ -31,8 +31,8 @@ Atualmente envolvido em projetos de média complexidade utilizando as seguintes 
 ##
 
 <table>
-  <tr style="border-top: none !important;">
-    <td style="border=none !important;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
+  <tr style="border-top: none;">
+    <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
     <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></td>
     <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></td>
     <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
