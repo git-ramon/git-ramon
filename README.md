@@ -32,12 +32,12 @@ Atualmente envolvido em projetos de média complexidade utilizando as seguintes 
 
 <table>
   <tr style="border-top: none;">
-    <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
-    <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></td>
-    <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></td>
-    <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+    <td style="border=none;"><img height="30" width="40" style="background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
+    <td style="border=none;"><img height="30" width="40" style="background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></td>
+    <td style="border=none;"><img height="30" width="40" style="background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></td>
+    <td style="border=none;"><img height="30" width="40" style="background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
     <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-    <td style="border=none;"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/laravel/laravel-original-wordmark.svg"></td>
+    <td style="border=none;"><img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/laravel.svg"></td>
     <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"></td>
     <td style="border=none;"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/mysql/mysql-original-wordmark.svg"></td>
     <td style="border=none;"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg"></td>
