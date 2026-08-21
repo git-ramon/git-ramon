@@ -22,8 +22,8 @@ Atualmente envolvido em projetos de média complexidade utilizando as seguintes 
 <br>
 <div align="center">
   <a href="https://github.com/git-ramon">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app"/>
-    <img height="160em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app"/>
+    <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical"/>
+    <img height="160em" width="400em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical"/>
   </a>
 </div>
 
